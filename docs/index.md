@@ -153,4 +153,4 @@ public class CreateMemberTransformer implements ExegeteTransformer {
 
 ## External Links
 
-[Exegete Javadoc](exegete-doc/index.html)
+[Exegete Javadoc](javadoc/index.html)
