@@ -1,0 +1,6 @@
+com.transportexchangegroup.exegete.api
+com.transportexchangegroup.exegete.api.dto
+com.transportexchangegroup.exegete.api.dto.cdcrawdata
+com.transportexchangegroup.exegete.config
+com.transportexchangegroup.transform
+com.transportexchangegroup.wortel.command
