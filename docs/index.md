@@ -1,4 +1,4 @@
-# Exegete - 1
+# Exegete
 
 
 
